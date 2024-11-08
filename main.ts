@@ -23,8 +23,8 @@ for (let y = 0; y < imgAltura; y++) {
 let espFrutas = 32
 let indiceFruta = 0
 
-for (let x = 0; x < imgLargura; x+=espFrutas) {
-    for (let y = 0; y < imgAltura; y+=espFrutas){
+for (let x = 8; x < imgLargura; x+=espFrutas) {
+    for (let y = 4; y < imgAltura; y+=espFrutas){
         if (indiceFruta > frutas.length-1) {
             indiceFruta=0
         }
