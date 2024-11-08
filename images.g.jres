@@ -1,0 +1,42 @@
+{
+    "myImages.image1": {
+        "id": "myImages.image1",
+        "data": "hwQQABAAAAAAAO4OiO7uAADsu+t3xusOwExEuy5mvg7AREVE7nLoy7xERETrYsjLTERERORizMRMREVE5HLsxEtERETkcujES0VEVORy6ORLRERE5GLs5EtERETkYuzku1REROtyzOSwRFRE7mLo5LBLRLQuxr4OAOxL63bM6w4AAOwOiO7uAA==",
+        "dataEncoding": "base64",
+        "namespace": "myImages.",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "img1"
+    },
+    "myImages.image3": {
+        "id": "myImages.image3",
+        "data": "hwQQABAAAABEC7DMzAAAAFS0S91EzAAAVFVdRdVEDABAVVVVVdXEAEBRVVVFVUQMVFVVVV1FTQxUEVVV1VVEy1QRVVVV3UTEVFFVVVVNRMRUVVVVVU1ExEAVVVVV1UTLQBVRVVVVTcsAVBFVVVVdtABAVRVVVVW1AABEVVVFXUQAAABERMtMBA==",
+        "dataEncoding": "base64",
+        "namespace": "myImages.",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "img3"
+    },
+    "myImages.image2": {
+        "id": "myImages.image2",
+        "data": "hwQQABAAAAAAAMDMzAwAAADA7O7u7gIAAOzu7u7uLgAA7u4iIuLuAuDuLiIiIuIC4O4iIiIiIi7g7i4iIiIiLs7MLCIiIiLkfGcsIiIiIuR37iIiIiIi5ODiRCIiIkLi4CJVJCIiQg4ALlQkIiIkDgAuIiIiROIAAOAuIiLiDgAAAODu7g4AAA==",
+        "dataEncoding": "base64",
+        "namespace": "myImages.",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "img2"
+    },
+    "myImages.image4": {
+        "id": "myImages.image4",
+        "data": "hwQQABAAAAAAAODuDAAAAAAALiLCAAAAAOBC4i4MAAAA4CXi7uIAAADgJCLiwgAAAOAiIuLCAAAAyC4iIu4AAABoLCLizswAAGjI7C4i4gxghwDgQiLuzmCHAOAlIu7CdggA4CQi4sJ2iGbIIiLiwnZ2d2YsIu7CdoiIiMgiIgyGCAAAAO7MAA==",
+        "dataEncoding": "base64",
+        "namespace": "myImages.",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "img4"
+    },
+    "myImages.image5": {
+        "id": "myImages.image5",
+        "data": "hwQQABAAAAAAAADu7u7uDgAA7iIiIu7OAOAiREQk4s4ALkJFIiLuwgAuRCIiIiLOAC4kIkIi4s6AKGJmJiIkzGbod3cmIiLOYIZ3ZyJC4gwAZncmQuLuDABgZyIiIu4MAHZ3Zy7izgBgZ2h35+4MAIAIhnZ3zAAAAACAYGYGAAAAAAAAAAAAAA==",
+        "dataEncoding": "base64",
+        "namespace": "myImages.",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "img5"
+    }
+}
